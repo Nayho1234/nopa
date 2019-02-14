@@ -31,9 +31,10 @@
   <button id="transferBtn">Transfer!</button>
   <p>Input Image:</p>
   <img src="img/17555477_1843290305921862_1286014994_n.jpg" alt="input img" id="inputImg">
+  <p>นพดล แซ่เถา รหัส 5901260052</p>
 
   <div id="styleA">
-    <p>Style A: <a href="https://www.google.com/search?q=%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3&rlz=1C1GCEA_enTH832TH832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAyZ_4w7vgAhVEto8KHfQVBXoQ_AUIDigB&biw=1366&bih=577#imgrc=7EX1bJh4q0orGM:">The Great Wave off Kanagawa, 1829 - Katsushika Hokusai</a></p>
+    <p>Style A: <a href="https://www.google.com/search?q=%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3&rlz=1C1GCEA_enTH832TH832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAyZ_4w7vgAhVEto8KHfQVBXoQ_AUIDigB&biw=1366&bih=577#imgrc=7EX1bJh4q0orGM:">Dog play pokker</a></p>
     <img src="img/Sarnoff03.jpg" alt="style one">
   </div>
 
